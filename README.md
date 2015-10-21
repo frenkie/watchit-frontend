@@ -4,6 +4,13 @@ Front end of the [Watchit](https://github.com/frenkie/watchit-service)
 video bookmark service, with which you can create a unified video
 playlist regardless of video origin.
 
+# Currently in development stage, so come back later!
+The front end is currently in development and will be accompanied by
+a separate [bookmark service project](https://github.com/frenkie/watchit-service)
+and hopefully fully [SAAS](https://en.wikipedia.org/wiki/Software_as_a_service) available. Of course you can 
+deploy it yourself (even privately) if you want, just check the 
+'Running it yourself' item below.
+
 
 
 ## Running it yourself
