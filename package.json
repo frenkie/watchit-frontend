@@ -1,0 +1,16 @@
+{
+  "name": "whatchit-frontend",
+  "version": "0.1.0",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "cookie-parser": "^1.4.0",
+    "debug": "^2.2.0",
+    "express": "^4.13.3",
+    "jade": "^1.11.0",
+    "plugin-hbs": "vpro/plugin-hbs",
+    "q": "^1.4.1",
+    "systemjs": "^0.19.5",
+    "watchit-dal": "github:frenkie/watchit-dal#v1.0.0"
+  }
+}
